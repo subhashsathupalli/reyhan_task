@@ -1,7 +1,7 @@
 const arr = [10,20,'i am learning js'];
 arr.push(30,40,30,50);
 console.log(arr);
-
+console.log("checking");
 arr.pop();
 console.log(arr);
 
